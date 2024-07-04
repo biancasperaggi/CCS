@@ -1,0 +1,50 @@
+body {
+    background-color: background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);;
+    color: black;
+}
+
+.titulo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    font-weight: 200;
+    font-style: normal;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+
+    /* colores */
+    color: rgba(255, 80, 80, 0.808); 
+}
+
+.links {
+    font-size: 50px;
+    text-decoration: none;
+    text-shadow: 8px 8px 10px green;
+
+}
+
+.parrafo {
+    font-size: 30px;
+    word-spacing: 30px;
+    
+}
+
+.img-ccs {
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/6a/Pelota_celeste.jpg);
+    background-size: contain;
+
+}
+
+img-ccs-web{
+    width: 300px;
+    height: 300px;
+    background-color: beige;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/6a/Pelota_celeste.jpg);
+    background-size: contain;
+
+
+}
