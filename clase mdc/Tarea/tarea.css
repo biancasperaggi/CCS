@@ -1,0 +1,46 @@
+body{
+    background: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: blanchedalmond;
+    font-weight: bold;
+    word-spacing: 1,5;
+    font-size: 50px;
+}
+
+h2{
+    text-decoration: underline;
+    color: blanchedalmond;
+    font-size: 25px;
+    text-align: center;
+}
+li{
+    color: blanchedalmond;
+    font-size: 40px;
+    font-family: cursive;
+}
+
+p{
+    color: blanchedalmond;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+img{
+    width: 300px;
+    height: auto;
+    margin: 30px auto;
+    border-left-color: brown;
+
+}
+
+footer{
+    font-size: 20px;
+    color: blue;
+}
